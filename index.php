@@ -78,6 +78,7 @@ class Fish extends ColdBlooded {
     protected function describe() {
         parent::describe();
         echo "Sono un pesce!\n";
+        echo "Splash!\n";  // :-)
     }
 }
 
